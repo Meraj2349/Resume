@@ -84,6 +84,7 @@ body
 .Education_info
 {
     padding-top: 40px ; 
+    
 }
 
 .Education_title
@@ -94,6 +95,9 @@ body
     font-weight: 600;
     margin-bottom: 20px;
 
+}
+.Education_info ul h4{
+    margin-bottom: 10px;
 }
 
 .Education_info ul 
